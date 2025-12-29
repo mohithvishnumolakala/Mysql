@@ -1,0 +1,2 @@
+insert into firsttable.student_table(s_no,student_name,student_rollno,student_phoneno) values (2,'geetha','002','6383782945'),(3,'ammu','003','2417392654'),(4,'bobby','004','2164926478');
+-- this is how we can insert values into table 
